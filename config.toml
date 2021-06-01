@@ -1,0 +1,2 @@
+unitImage = "matlab:2019-py37" #���㵥Ԫģ������
+command = ["bash","pythonpath.sh"]
